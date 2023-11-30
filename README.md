@@ -1,0 +1,1 @@
+Dieses vorhaben dient dazu Trainingsdaten für ein neuronales Netz für die Erkennung von Koordinatensystem zu sammeln um später eine einzige Eingabe zu haben für das erkennen und umrechnen von Koordinaten.  
